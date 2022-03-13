@@ -1,24 +1,12 @@
-# README
+# bookers
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+DMMWEBCAMPコンテンツ
 
-Things you may want to cover:
+【課題：アプリケーションを作成してみよう：基礎編】
 
-* Ruby version
+読んだ本の感想を投稿するサイトです。
 
-* System dependencies
+# 使用技術
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Ruby 2.6.3
+- Ruby on Rails 6.1.4.6
